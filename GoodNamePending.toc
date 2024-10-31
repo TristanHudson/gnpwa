@@ -1,5 +1,5 @@
 ## Interface: 110005
 ## Title: Good Name Pending WA Installer
 ## Author: Hweg
-## Version: 1.1
+## Version: 1.0.1
 GoodNamePending.lua
